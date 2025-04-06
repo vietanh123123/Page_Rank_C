@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "random": "c",
+        "system_error": "c"
+    }
+}
